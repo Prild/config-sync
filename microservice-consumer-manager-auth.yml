@@ -1,3 +1,4 @@
-managerInfo: 
-  username: xishiqu
-  password: 12345678
+security:
+  user:
+    name: xishiqu
+    password: 12345678

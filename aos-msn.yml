@@ -1,7 +1,4 @@
 #server:
 #  port: 8083
-managerInfo: 
-  username: aaa
-  password: 123
 sccc: something
 profile: profile-dafault-321-re
